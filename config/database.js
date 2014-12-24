@@ -1,3 +1,3 @@
 module.exports = {
-  'url' : 'mongodb://maxehnert:$q7@)3FV@ds047030.mongolab.com:47030/maxnode'
+  'url' : 'mongodb://max:Nascar38@ds027761.mongolab.com:27761/maxtest'
 };
